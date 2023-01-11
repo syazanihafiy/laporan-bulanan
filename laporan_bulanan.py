@@ -1,9 +1,7 @@
 # Author: Syazani Hafiy
 
-import os
 import psycopg2
 import pandas as pd
-import win32com.client
 
 from pptx.util import Pt
 from pptx.util import Inches
